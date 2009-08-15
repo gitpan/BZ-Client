@@ -7,7 +7,7 @@ package BZ::Client;
 use BZ::Client::XMLRPC();
 use HTTP::Cookies();
 
-our $VERSION = '1.01';
+our $VERSION = '1.02';
 
 
 sub new($%) {

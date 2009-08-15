@@ -1,5 +1,8 @@
 Revision history for Perl extension BZ::Client.
 
+1.02 Sat Aug 15 15:31:00 2009
+    - Added LICENSE file to the distribution.
+
 1.01 Mon Aug 10 17:31:00 2009
     - XML::Parser and XML::Writer now declared as dependencies.
 
